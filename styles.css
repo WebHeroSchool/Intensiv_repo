@@ -1,20 +1,22 @@
 .title{
  font-family: Roboto;
 }
+body{
+  margin:0;
+}
 .wrapper{
   margin:auto;
   width:80%;
 }
 .header{
+  padding:40px 0;
   display:flex;
   justify-content:space-between;
 }
-.logo,.menu{
-  display:inline-block;
-}
 .logo{
-  margin-right:63%;
-  padding:40px 0;
+  width:190px;
+  height:35px;
+  background:url('img/logo.svg');
 }
 .menu{
   display:flex;
@@ -26,6 +28,13 @@
 .menu__item:last-child{
   padding-right:0;
 }
-body{
-  margin:0;
+.main-content{
+  padding-top:206px;
+  width:37%;
+}
+.main-content__title{
+  margin-bottom:40px;
+}
+.main-content__subtitle{
+  margin-bottom:41px;
 }
