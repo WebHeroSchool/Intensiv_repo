@@ -2,28 +2,28 @@
 
 @font-face{
     font-family:'pt_serif';
-    src:url('pt_serif-bold-webfont.woff')format('woff');
+    src:url('./fonts/pt_serif-bold-webfont.woff')format('woff');
     font-weight:normal;
     font-style:normal;
 }
 
 @font-face{
     font-family:'pt_serif';
-    src:url('pt_serif-bolditalic-webfont.woff')format('woff');
+    src:url('./fonts/pt_serif-bolditalic-webfont.woff')format('woff');
     font-weight:normal;
     font-style:normal;
 }
 
 @font-face{
     font-family:'pt_serif';
-    src: url('pt_serif-italic-webfont.woff')format('woff');
+    src: url('./fonts/pt_serif-italic-webfont.woff')format('woff');
     font-weight:normal;
     font-style:normal;
 }
 
 @font-face{
     font-family:'pt_serif';
-    src:url('pt_serif-regular-webfont.woff')format('woff');
+    src:url('./fonts/pt_serif-regular-webfont.woff')format('woff');
     font-weight:normal;
     font-style:normal;
 }
