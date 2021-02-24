@@ -64,18 +64,18 @@ body{
 }
 .main__title{
   margin:0 0 40px 0;
-  font:bold 50px/65px pt_serif,arial,helvetica,sans-serif;
+  font:bold 66px/87px pt_serif,arial,helvetica,sans-serif;
 }
 .main__title-text_highlight{
   background:#ECF3FF;
 }
 .main__subtitle{
   margin:0 0 41px 0;
-  font:18px/21px Roboto,arial,helvetica,sans-serif;
+  font:22px/26px Roboto,arial,helvetica,sans-serif;
 }
 .main__button{
   display:inline-block;
-  font:14px/16px Roboto,arial,helvetica,sans-serif;
+  font:18px/21px Roboto,arial,helvetica,sans-serif;
   color:#fff;
   background:#0056EC;
   padding:14px 16px;
@@ -102,11 +102,11 @@ body{
   }
   .main__title{
     margin-bottom:44px;
-    font:bold 30px/39px pt_serif,arial,helvetica,sans-serif;
+    font:bold 64px/85px pt_serif,arial,helvetica,sans-serif;
   }
   .main__subtitle{
     margin-bottom:25px;
-    font:500 16px/19px Roboto,arial,helvetica,sans-serif;
+    font:500 20px/24px Roboto,arial,helvetica,sans-serif;
   }
   #menu__toggle{
     opacity:0;
